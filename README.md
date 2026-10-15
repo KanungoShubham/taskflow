@@ -135,6 +135,4 @@ client/
     components/         board/, tasks/, teams/, layout/, common/, ui/ (shadcn)
     hooks/              TanStack Query hooks per resource
     lib/                api client, types, zod form schemas
-docs/
-  SUBMISSION.md         Key decisions, what I chose not to build, limitation
 ```
